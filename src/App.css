@@ -1,0 +1,68 @@
+.main-header-special {
+  padding: 20px;/* 
+  border-bottom: 1px solid #e5e5e5; */
+  font-family: 'Poppins', sans-serif;
+}	
+h2 {
+  color: #e5e5e5;
+}
+.FormText {
+  display: inline-block;
+  max-width: 23rem;
+}
+.FormText::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: large;
+  background-color: #000;
+  opacity: 1; /* Firefox */
+}
+
+.FormText:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: large;
+  background-color: #000;
+}
+
+.FormText::-ms-input-placeholder { /* Microsoft Edge */
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: large;
+  background-color: #000;
+}
+
+.FormText--button {
+  display: inline-block;
+  background-color: #624d8b;
+}
+.white--header{
+  color: #e5e5e5;
+}
+.FormElement {
+  display: inline-block;
+}
+.aside {
+  float: right;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 2rem;
+}	
+
+.centered-text {
+  text-align: center;
+}	
+.black-text {
+  color: #000;
+}
+.bottom-space {
+  margin-bottom: 40vh;
+}
+.top-space {
+  margin-top: 40vh;
+}
+
+.big-text {
+  font-size: 5rem;
+  line-height: 6rem;
+}	

@@ -1,0 +1,75 @@
+{
+  "main": {
+    "image":"about-image.png",
+    "contactmessage":"Contact us and get your MTF360.dev assesment today!",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Dover",
+      "state":"Delaware",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://MTF360.dev",
+    "resumedownload":"http://MTF360.dev",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/mtf360",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Chisin bakery and smoked",
+        "category":"Brands I worked on for a local business",
+        "image":"01.jpg",
+        "url":"https://mtf360.dev/"
+      },
+      {
+        "title":"Alex Wyse (New York)",
+        "category":"Brand concept for Ale Wyse",
+        "image":"02.jpg",
+        "url":"https://mtf360.dev/"
+      },
+      {
+        "title":"CompuMaster",
+        "category":"Brand concept for CompuMaster",
+        "image":"03.jpg",
+        "url":"https://mtf360.dev/"
+      },
+      {
+        "title":"DNS Children Clothes",
+        "category":"Publicity and social networks for a childrens clothing brand",
+        "image":"04.jpg",
+        "url":"https://mtf360.dev/"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"Brand concept for Smirkspace",
+        "image":"05.jpg",
+        "url":"https://mtf360.dev/"
+      },
+      {
+        "title":"Four Oaks / Organic Café",
+        "category":"Brands I worked on for a local business",
+        "image":"06.jpg",
+        "url":"https://mtf360.dev/"
+      },
+      {
+        "title":"Carpon",
+        "category":"Local car articles business",
+        "image":"07.jpg",
+        "url":"https://mtf360.dev/"
+      },
+      {
+        "title":"NeyTiv",
+        "category":"Brand concept for NeyTiv Natural Spa Boutique",
+        "image":"08.jpg",
+        "url":"https://mtf360.dev/"
+      }
+    ]
+  }
+}

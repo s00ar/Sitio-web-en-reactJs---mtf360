@@ -1,0 +1,112 @@
+
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+
+  ______________
+  
+        "title":"Chisin bakery and smoked meats",
+        "category":"Brands I worked on for a local business",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"Alex Wyse (New York)",
+        "category":"Brand concept for Ale Wyse",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"CompuMaster",
+        "category":"Brand concept for CompuMaster",
+        "image":"03.jpg",
+        "url":""
+      },
+      {
+        "title":"DNS Children Clothes",
+        "category":"Publicity and social networks for a childrens clothing brand",
+        "image":"04.jpg",
+        "url":""
+      },
+      {
+        "title":"Smirkspace",
+        "category":"Brand concept for Smirkspace",
+        "image":"05.jpg",
+        "url":""
+      },
+      {
+        "title":"Four Oaks / Organic Café",
+        "category":"Brands I worked on for a local business",
+        "image":"06.jpg",
+        "url":""
+      },
+      {
+        "title":"Carpon",
+        "category":"Local car articles business",
+        "image":"07.jpg",
+        "url":""
+      },
+      {
+        "title":"NeyTiv",
+        "category":"Brand concept for NeyTiv Natural Spa Boutique",
+        "image":"08.jpg",
+        "url":""
+      }
